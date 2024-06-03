@@ -246,6 +246,7 @@ height:32px;
 .social_bookmarks .mail{background-image:  url(../images/layout/icon-mail.png);}
 .social_bookmarks .dribbble{background-image:  url(../images/layout/icon-dribbble.png);}
 .social_bookmarks .linkedin{background-image:  url(../images/layout/icon-linkedin.png);}
+.social_bookmarks .resume{background-image:  url(../images/layout/icon-resume.png);}
 .social_bookmarks .search{background-image:  url(../images/layout/icon-search-top.png);}
 .social_bookmarks .gplus{background-image:  url(../images/layout/icon-gplus.png);}
 
@@ -255,6 +256,7 @@ height:32px;
 #top .social_bookmarks .mail:hover    {background-position: -47px center; background-color:#9fae37;}
 #top .social_bookmarks .dribbble:hover{background-position: -47px center; background-color:#e44885;}
 #top .social_bookmarks .linkedin:hover{background-position: -47px center; background-color:#419cca;}
+#top .social_bookmarks .resume:hover{background-position: -47px center; background-color:#419cca;}
 #top .social_bookmarks .search:hover  {background-position: -47px center; background-color:#222222;}
 #top .social_bookmarks .gplus:hover   {background-position: -47px center; background-color:#de5a49;}
 
